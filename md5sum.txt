@@ -4,6 +4,7 @@
 "config.yaml" "6770d3725f6cd8d14bddedfbf3b72453" "site/built/config.yaml" "2025-02-08"
 "index.md" "4dc6dd89a704c797aa780cc17ea7f9a2" "site/built/index.md" "2025-02-08"
 "links.md" "8184cf4149eafbf03ce8da8ff0778c14" "site/built/links.md" "2025-02-08"
+"workshops.md" "15e0b6e5aee4eb755cc9031a1480844d" "site/built/workshops.md" "2025-02-08"
 "episodes/introduction.Rmd" "c0262c39bd7dcc7d1d54a26557e4311c" "site/built/introduction.md" "2025-02-08"
 "episodes/accessing.Rmd" "1d710eb7c0351b1272e1272fcdcf0279" "site/built/accessing.md" "2025-02-08"
 "episodes/getting_started.Rmd" "aeaccee4473eac7f5b68fea3faaf7321" "site/built/getting_started.md" "2025-02-08"
