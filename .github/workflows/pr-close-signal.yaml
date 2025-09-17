@@ -8,7 +8,7 @@ on:
 jobs:
   send-close-signal:
     name: "Send closing signal"
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     if: ${{ github.event.action == 'closed' }}
     steps:
       - name: "Create PRtifact"
@@ -20,3 +20,4 @@ jobs:
         with:
           name: pr
           path: ./pr
+
